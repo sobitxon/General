@@ -1,1 +1,2 @@
-# Few works on machine learning and networks analysis 
+# Machine learning, networks analysis, data collection 
+## Python and R
